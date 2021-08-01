@@ -1,6 +1,6 @@
-# Fall-Detection---ANN
+# Fall-Detection---Sisfall
 Dataset: Sisfall
-Model: ANN
+Model: RF、SVM、ANN
 
 1.SisFall数据集说明
 2.特征提取代码中，raw路径是指存放了SisFall数据集的4500个原始数据txt的文件夹
