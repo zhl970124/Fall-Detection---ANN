@@ -1,2 +1,3 @@
 # Fall-Detection---ANN
-Fall Detection, Sisfall, ANN
+Dataset: Sisfall
+Model: ANN
